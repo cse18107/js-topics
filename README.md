@@ -6,3 +6,4 @@
 - [ ] JavaScript Proxy and Reflect Objects [LINK](https://www.youtube.com/watch?v=TGGoiJBuv-Y&list=PLinedj3B30sDi0keEOQU3n5p3Op28eN2e&index=6)
 - [ ] React Server Components vs Client Components [LINK](https://www.youtube.com/watch?v=bugO1tmSDpM)
 - [ ] Javascript Interview Questions ( Event Propagation ) - Bubbling, Capturing, and Deligation [LINK](https://www.youtube.com/watch?v=rS_4YfbEo2U&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=13&t=473s)
+- [ ] ( Event Propagation ) - Bubbling, Capturing, and Deligation [LINK](https://www.youtube.com/watch?v=rS_4YfbEo2U&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=13&t=454s)
