@@ -7,3 +7,4 @@
 - [ ] React Server Components vs Client Components [LINK](https://www.youtube.com/watch?v=bugO1tmSDpM)
 - [ ] Javascript Interview Questions ( Event Propagation ) - Bubbling, Capturing, and Deligation [LINK](https://www.youtube.com/watch?v=rS_4YfbEo2U&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=13&t=473s)
 - [ ] ( Event Propagation ) - Bubbling, Capturing, and Deligation [LINK](https://www.youtube.com/watch?v=rS_4YfbEo2U&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=13&t=454s)
+- [ ] js design patterns [LINK](https://www.youtube.com/playlist?list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s)
