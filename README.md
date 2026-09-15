@@ -9,3 +9,8 @@
 - [ ] ( Event Propagation ) - Bubbling, Capturing, and Deligation [LINK](https://www.youtube.com/watch?v=rS_4YfbEo2U&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=13&t=454s)
 - [ ] js design patterns [LINK](https://www.youtube.com/playlist?list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s)
 - [ ] Profiling React App: react-scan vs react dev tools [LINK](https://www.youtube.com/watch?v=-ToCso4x7xg)
+- [ ] Debug React Like a Senior Engineer (Real Bugs, Real Tools) 🔥 [LINK](https://www.youtube.com/watch?v=75jfPqBUNRE)
+- [ ] Stop Breaking Your React App: useEffect Gotchas, Explained 🪲 [LINK](https://www.youtube.com/watch?v=z2VnpJ6st-4)
+- [ ] Why Most Developers Are Bad at Debugging — Let’s Fix It [LINK](https://www.youtube.com/watch?v=CnQ2WN601b4)
+- [ ] Find React Memory Leaks Like a Senior Engineer [LINK](https://www.youtube.com/watch?v=FPVL1kwadjY)
+
