@@ -8,3 +8,4 @@
 - [ ] Javascript Interview Questions ( Event Propagation ) - Bubbling, Capturing, and Deligation [LINK](https://www.youtube.com/watch?v=rS_4YfbEo2U&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=13&t=473s)
 - [ ] ( Event Propagation ) - Bubbling, Capturing, and Deligation [LINK](https://www.youtube.com/watch?v=rS_4YfbEo2U&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=13&t=454s)
 - [ ] js design patterns [LINK](https://www.youtube.com/playlist?list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s)
+- [ ] Profiling React App: react-scan vs react dev tools [LINK](https://www.youtube.com/watch?v=-ToCso4x7xg)
