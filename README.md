@@ -14,4 +14,5 @@
 - [ ] Why Most Developers Are Bad at Debugging — Let’s Fix It [LINK](https://www.youtube.com/watch?v=CnQ2WN601b4)
 - [ ] Find React Memory Leaks Like a Senior Engineer [LINK](https://www.youtube.com/watch?v=FPVL1kwadjY)
 - [ ] What are Generator Functions in Javascript? [LINK](https://www.youtube.com/watch?v=xC6-kXz8D8I)
+- [ ] Promisification in JavaScript [LINK](https://www.youtube.com/watch?v=rg2CwRwM13A)
 
