@@ -21,4 +21,4 @@
 - [ ] [useEffectEvent - React19.2](https://www.youtube.com/watch?v=Qur6t5tnf-U)
 - [ ] [Master React Custom Hooks with Polyfill of useState and Polyfill of useEffect](https://www.youtube.com/watch?v=K8v2tkfzppo)
 - [ ] [Mastering Activity Component - React 19.2](https://www.youtube.com/watch?v=JshyWQ4nYCQ)
-- [ ] [useDeferredValue hook](https://www.youtube.com/watch?v=ThMmRDYs810)
+- [ ] [useDeferredValue hook](https://www.youtube.com/watch?v=ThMmRDYs810) [PART-2](https://www.youtube.com/watch?v=kpcfdMBVqyg)
