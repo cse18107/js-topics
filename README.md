@@ -17,3 +17,5 @@
 - [ ] Promisification in JavaScript [LINK](https://www.youtube.com/watch?v=rg2CwRwM13A)
 
 ## REACT
+
+- [ ] [useEffectEvent - React19.2](https://www.youtube.com/watch?v=Qur6t5tnf-U)
