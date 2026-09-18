@@ -1,4 +1,4 @@
-# js-topics
+# JS TOPICS
 
 - [ ] prototypal inheritance [LINK](https://www.youtube.com/watch?v=8_tFfRj4NE0)
 - [ ] javascript-scope-and-hoisting-explained [LINK](https://medium.com/@AlexanderObregon/javascript-scope-and-hoisting-explained-dec184eb94b8)
@@ -16,3 +16,4 @@
 - [ ] What are Generator Functions in Javascript? [LINK](https://www.youtube.com/watch?v=xC6-kXz8D8I)
 - [ ] Promisification in JavaScript [LINK](https://www.youtube.com/watch?v=rg2CwRwM13A)
 
+## REACT
