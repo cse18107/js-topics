@@ -15,6 +15,7 @@
 - [ ] Find React Memory Leaks Like a Senior Engineer [LINK](https://www.youtube.com/watch?v=FPVL1kwadjY)
 - [ ] What are Generator Functions in Javascript? [LINK](https://www.youtube.com/watch?v=xC6-kXz8D8I)
 - [ ] Promisification in JavaScript [LINK](https://www.youtube.com/watch?v=rg2CwRwM13A)
+- [ ] AbortController | Cancel a Promise | Cancel Events | Cancel Timeouts | Cancel APIs [LINK](https://www.youtube.com/watch?v=b_Ye-_YINB8)
 
 ## REACT
 
@@ -22,3 +23,26 @@
 - [ ] [Master React Custom Hooks with Polyfill of useState and Polyfill of useEffect](https://www.youtube.com/watch?v=K8v2tkfzppo)
 - [ ] [Mastering Activity Component - React 19.2](https://www.youtube.com/watch?v=JshyWQ4nYCQ)
 - [ ] [useDeferredValue hook](https://www.youtube.com/watch?v=ThMmRDYs810), [PART-2](https://www.youtube.com/watch?v=kpcfdMBVqyg)
+- [ ] useOptimistic Hook React 19 [LINK](https://www.youtube.com/watch?v=M4BtR93fydQ&t=5s)
+- [ ] useActionState and useFormStatus React 19 | Form Hooks [LINK](https://www.youtube.com/watch?v=38Ju1IBnd5A)
+- [ ] useSyncExternalStore hook in React 18 [LINK](https://www.youtube.com/watch?v=dHzz4ns962k)
+- [ ] useId hook in React [LINK](https://www.youtube.com/watch?v=qIBjuoZgOW8)
+- [ ] React Suspense - (Suspense for Data Fetching) [LINK](https://www.youtube.com/watch?v=_OlBaRKN_0c)
+- [ ] Form Action React 19 - Modern Way of Working with Forms In React [LINK](https://www.youtube.com/watch?v=Zi6cKQxYMl8)
+- [ ] React 19 - What's Changed? [LINK](https://www.youtube.com/watch?v=6DKj8pEQ6X0)
+- [ ] use hook - React 19 1/5 [LINK](https://www.youtube.com/watch?v=j4yqUIEmEDM)
+- [ ] Using use hook with conditionals and loop (React 19) - 2/5 [LINK](https://www.youtube.com/watch?v=cM_Whw76OqU&t=32s)
+- [ ] use hook with Context | React 19 way of consuming context 3/5 [LINK](https://www.youtube.com/watch?v=0ewhJcHM13c)
+- [ ] use hook - It’s not that Simple | React 19 4/5 [LINK](https://www.youtube.com/watch?v=q_gdlQm_SyA)
+- [ ] use hook Patterns ( React 19) 5/5 [LINK](https://www.youtube.com/watch?v=KftymAHf3Bg)
+- [ ] useTransition | Stack Reconciler | Fibre Reconciler | Concurrent React [LINK](https://www.youtube.com/watch?v=vrc3seH8L5o&t=2464s)
+- [ ] forwardRef in ReactJS Explained by Front End Master [LINK](https://www.youtube.com/watch?v=m3HyhPHldGo)
+- [ ] Mastering CodeSplitting in React + Preload Prefetch Preconnect Prerender [LINK](https://www.youtube.com/watch?v=fLfVVu1GyNQ)
+
+
+
+
+
+
+
+
